@@ -1,4 +1,8 @@
-package com.interview.practice.lld.elevator;
+package com.interview.practice.lld.elevator.strategy;
+
+import com.interview.practice.lld.elevator.model.Elevator;
+import com.interview.practice.lld.elevator.model.ElevatorRequest;
+import com.interview.practice.lld.elevator.model.ElevatorStatus;
 
 import java.util.Comparator;
 import java.util.List;

@@ -1,4 +1,9 @@
-package com.interview.practice.lld.elevator;
+package com.interview.practice.lld.elevator.state;
+
+import com.interview.practice.lld.elevator.model.Direction;
+import com.interview.practice.lld.elevator.model.Elevator;
+import com.interview.practice.lld.elevator.model.ElevatorRequest;
+import com.interview.practice.lld.elevator.model.ElevatorStatus;
 
 public class IdleState implements ElevatorState {
     @Override

@@ -1,4 +1,7 @@
-package com.interview.practice.lld.elevator;
+package com.interview.practice.lld.elevator.model;
+
+import com.interview.practice.lld.elevator.state.ElevatorState;
+import com.interview.practice.lld.elevator.state.IdleState;
 
 public class Elevator {
     private final String id;

@@ -1,4 +1,7 @@
-package com.interview.practice.lld.elevator;
+package com.interview.practice.lld.elevator.service;
+
+import com.interview.practice.lld.elevator.model.Elevator;
+import com.interview.practice.lld.elevator.model.ElevatorRequest;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.interview.practice.lld.elevator;
+package com.interview.practice.lld.elevator.model;
 
 public class ElevatorRequest {
     private final int floor;
